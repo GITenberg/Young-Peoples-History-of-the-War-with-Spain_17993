@@ -1,0 +1,25 @@
+_repo: Young-Peoples-History-of-the-War-with-Spain_17993
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Holmes, Prescott
+    gutenberg_agent_id: '7738'
+    url: http://www.gutenberg.org/2009/agents/7738
+description: ''
+gutenberg_bookshelf: Children's History
+gutenberg_issued: '2006-03-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17993'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spanish-American War, 1898'
+- !lcc 'E660'
+title: Young Peoples' History of the War with Spain
+url: http://www.gutenberg.org/ebooks/17993
