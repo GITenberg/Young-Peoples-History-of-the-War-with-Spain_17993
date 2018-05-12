@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '7738'
     url: http://www.gutenberg.org/2009/agents/7738
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17993#Young-Peoples-History-of-the-War-with-Spain
 gutenberg_bookshelf: Children's History
 gutenberg_issued: '2006-03-15'
 gutenberg_type: Text
